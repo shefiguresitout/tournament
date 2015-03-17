@@ -1,0 +1,4 @@
+create database tournament;
+\c tournament
+\i tournament.sql
+\q
